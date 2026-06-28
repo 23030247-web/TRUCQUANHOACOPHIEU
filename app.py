@@ -15,7 +15,7 @@ st.set_page_config(
 
 st.title("📈 KIỂM ĐỊNH XU HƯỚNG GIÁ CỔ PHIẾU BẰNG MANN-KENDALL")
 
-st.write(
+st.write( Trần Ngọc Hà - Đề Tài 1)
     """
 Ứng dụng sử dụng kiểm định **Mann-Kendall** để xác định
 giá cổ phiếu có xu hướng tăng, giảm hay không có xu hướng.
